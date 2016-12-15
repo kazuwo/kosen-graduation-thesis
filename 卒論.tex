@@ -42,10 +42,12 @@ web上でアンケートを実施するフレームワークとしては、Googl
 \section{ソフトウェアの開発}
 \subsection{作製したシステムと既存のシステムの差}
 \subsection{xeeシステムについて}
-xeeシステムとは林（2016）が発表したオンライン経済実験の基盤システムである。xeeシステムはシステム基幹部分と、その配下にある実験群から構成される。xeeシステム基幹部分はErlang VM上で動作するElixirという言語で書かれたwebアプリケーションの基盤であるPhoenix Frameworkを改変して設計されている。そして、実験群はFacebook社が開発したReact.jsとGoogle Material Designが提供しているUIパーツであるMaterial UI、基幹部分と連携するためのElixirで構成される。
+xeeシステムとは林（2016）が発表したオンライン経済実験の基盤システムである。xeeシステムはシステム基幹部分と、その配下にある実験群から構成される。xeeシステム基幹部分はErlang VM上で動作するElixirという言語で書かれたwebアプリケーションの基盤であるPhoenix Frameworkを利用して設計されている。そして、実験群はFacebook社が開発したReact.jsとGoogle Material Designが提供しているUIパーツであるMaterial UI、基幹部分と連携するためのElixirで構成される。
 \subsection{xeeシステムに使われた技術}
 \subsubsection{erlang}
+　Erlangは1987年ごろにスウェーデンの電話会社Ericssonで開発された関数型言語である。Erlangのランタイムシステムには、平行性、分散性、耐障害性のサポートが組み込まれている。そのため今では、電気通信、銀行業務、電子商取引など広い分野のシステムに組み込まれている。
 \subsubsection{elixir}
+　ElixirはErlang VM上で動作する関数型言語である。これはErlangの使いづらさ（文字列処理が苦手）などを改変し、Ruby風に書けるようにした言語である。
 \subsubsection{jsx}
 \subsubsection{webpack}
 \section{授業評価アンケートの開発}
@@ -60,6 +62,7 @@ xeeシステムとは林（2016）が発表したオンライン経済実験の�
 \section{今後の課題}
 \section{まとめ}
 \section{参考文献}
+http://www.geocities.jp/m_hiroi/func/abcerl01.html
 \section{謝辞}
 %
 %
