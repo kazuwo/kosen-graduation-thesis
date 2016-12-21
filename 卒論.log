@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.6.20)  15 DEC 2016 11:48
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.6.20)  21 DEC 2016 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -222,22 +222,44 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 42.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 45.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 45.
  [1
 
-] [2] (./卒論.aux) ) 
+]
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 43.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 47.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 47.
+ [2]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 http://www.geocities.jp/m_
+                               hiroi/func/abcerl01.html
+? 
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 69.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 69.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 69.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 4.805pt on input line 69.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 \section
+             {謝辞}
+? 
+[3] (./卒論.aux) ) 
 Here is how much of TeX's memory you used:
- 1798 strings out of 493683
- 20128 string characters out of 6152636
+ 1824 strings out of 493683
+ 20403 string characters out of 6152636
  85115 words of memory out of 5000000
- 5360 multiletter control sequences out of 15000+600000
- 19061 words of font info for 83 fonts, out of 8000000 for 9000
+ 5377 multiletter control sequences out of 15000+600000
+ 23885 words of font info for 104 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,6n,26p,453b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,6n,26p,706b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 卒論.dvi (2 pages, 4732 bytes).
+Output written on 卒論.dvi (3 pages, 9304 bytes).
